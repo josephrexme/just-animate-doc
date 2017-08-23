@@ -75,5 +75,5 @@ player(t1)
 
 The player controls should look something like this
 
-![](/player-controls.png)
+![](/just-animate-doc/player-controls.png)
 
